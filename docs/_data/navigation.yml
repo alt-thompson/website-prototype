@@ -1,6 +1,6 @@
 - name: Home
-  link: /website-prototype/
+  link: /
 - name: About
-  link: /website-prototype/about.html
+  link: /about.html
 - name: People
-  link: /website-prototype/people.html
+  link: /people.html
