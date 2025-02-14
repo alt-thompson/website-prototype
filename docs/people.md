@@ -2,7 +2,7 @@
 layout: default
 title: People
 ---
-<h1>people</h1>
+# People
 
 <ul>
   {% for person in site.people %}

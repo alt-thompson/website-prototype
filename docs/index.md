@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Home
+title: User Empowerment Lab
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
+Have you ever found yourself checking your phone without knowing why?

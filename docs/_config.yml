@@ -1,6 +1,11 @@
 theme: jekyll-theme-minimal
 
-baseurl: /website-prototype
+defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      baselink: "/website-prototype"
 
 collections:
   people:
