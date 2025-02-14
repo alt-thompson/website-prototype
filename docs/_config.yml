@@ -1,7 +1,4 @@
 theme: jekyll-theme-minimal
 
-sass:
-  sass_dir: _sass
-
 collections:
   people:
