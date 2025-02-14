@@ -1,5 +1,5 @@
 ---
 layout: default
-title: User Empowerment Lab
+title: Home | Organization Name
 ---
-Have you ever found yourself checking your phone without knowing why?
+Home page content
