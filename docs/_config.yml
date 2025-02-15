@@ -10,3 +10,4 @@ defaults:
 collections:
   people:
   projects:
+  publications:
