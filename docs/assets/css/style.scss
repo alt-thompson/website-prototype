@@ -1,0 +1,8 @@
+---
+---
+
+a:hover, a:focus { color: #069; text-decoration-line: underline;}
+
+@import "{{ site.theme }}";
+
+.current { color: #069; font-weight: bold;}
